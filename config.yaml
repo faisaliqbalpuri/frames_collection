@@ -1,0 +1,6 @@
+image_name_prefix: ['006_001_001','006_001_002']
+rtsp_link: ['rtsp://admin:abc12345@192.168.100.3:554','rtsp://admin:abc12345@192.168.100.3:554']
+save_path: 'frames/'
+minute_after_save_frame: 1
+start_time: [10,0,0]
+end_time: [23,59,59]
